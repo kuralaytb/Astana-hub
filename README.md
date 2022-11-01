@@ -1,1 +1,1 @@
-https://kuralaytb.github.io/blob/master/index.html
+https://kuralaytb.github.io/
