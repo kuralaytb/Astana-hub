@@ -1,1 +1,1 @@
-https://rawgit.com/kuralaytb/Astana-hub/blob/master/index.html
+https://cdn.rawgit.com/kuralaytb/Astana-hub/blob/master/index.html
