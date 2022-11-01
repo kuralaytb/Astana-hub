@@ -1,1 +1,1 @@
-https://kuralaytb.github.io
+https://kuralaytb.github.io/Astana-hub
