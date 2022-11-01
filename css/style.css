@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 -15px;
+}
+header nav.navbar{
+    background-color: white;
+}
+header a.navbar-brand{
+    display:block;
+    font-size: 25px;
+    font-weight:600;
+    color:#3c64b1;
+    margin-left: 215px;
+}
+header nav ul{
+    margin:0 auto;
+}
+header nav ul li{
+    margin-right: 65px;
+    font-size:14px;
+    font-weight: 500;
+    color: black;
+}
+header nav ul li a:hover{
+    color:#3c64b1;
+}
+header a.nav-link{
+    color:#4b4a4a;
+}
+.search-box{
+    margin-right: 215px;
+}
+section.main{
+    background-color: #f3f6fa;
+}
+section.main div.row{
+    margin-left: 215px;
+    margin-right: 215px;
+}
+.col-7 img{
+    margin:101px 0;
+}
+.col-5{
+    padding: 0 60px 0 0;
+}
+.col-5 h6{
+    font-size:14px;
+    color: #3c64b1;
+}
+section.main h1{
+    font-size:47px;
+    padding-top: 30px;
+}
+section.main p{
+    font-weight: 300;
+    padding-top: 60px;
+    font-size: 14px;
+}
+section.main a.button{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    text-decoration: none;
+    background:#3c64b1;
+    height:50px;
+    width:170px;
+    font-size: 14px;
+    color:white;
+    line-height: 20px;
+    margin-top: 80px;
+}
+section.articles{
+    margin: 165px 215px 0px 215px;
+}
+section.articles div.row{
+    margin-top: 50px;
+}
+section.articles h6{
+    margin-top:50px;
+    margin-bottom: 25px;
+}
+section.articles p{
+    margin-bottom: 50px;
+}
+section.articles div.col-4{
+    margin-top:60px;
+}
+section.articles div.more-articles{
+    margin-bottom:85px;
+}
+ul.pagination li a, span{
+    color:black;
+    margin:15px;  
+}
+ul.pagination li.active span.page-link{
+    background: #737b7d;
+    border-color: #737b7d;
+}
+ul.pagination li a:hover{
+    background: #737b7d;
+    color:white;
+}
+footer{
+    background-color: #373f41;
+}
+footer a.navbar-brand{
+    display:block;
+    font-size: 25px;
+    font-weight:600;
+    color:white;
+    margin-left: 215px;
+}
+footer nav ul.info li a{
+    margin-right: 40px;
+    font-size:14px;
+    font-weight: 500;
+    color: white;
+}
+footer nav ul.info{
+    margin-left: 400px;
+}
+footer nav ul.info li a:hover{
+    color:#3c64b1;
+}
+footer nav div ul.social-media li{
+    color:white;
+    margin-left: 25px;
+}
+footer nav div ul.social-media{
+    margin-right: 215px;
+}
+
+
+
+
