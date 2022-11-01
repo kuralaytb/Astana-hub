@@ -102,6 +102,16 @@ ul.pagination li a:hover{
     background: #737b7d;
     color:white;
 }
+ul.pagination li.page-item a.page-link.ellipsis {
+    border:none;
+}
+ul.pagination li.page-item a.page-link.ellipsis i{
+    color:#e5e8e9;
+    padding-top:10px;
+}
+ul.pagination{
+    margin-bottom: 100pxgi;
+}
 footer{
     background-color: #373f41;
 }
